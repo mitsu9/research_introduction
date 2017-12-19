@@ -1,6 +1,4 @@
 
-theme : night
-
 transition : fade
 
 theme-override : PITCHME.css
