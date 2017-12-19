@@ -6,13 +6,8 @@
 
 ### 研究の概要
 
--  Software Defined Networking (SDN)
-  - ソフトウェアでネットワークを管理するという考え方
-  - 従来は人が手作業で設定を反映させていた
-- トラフィックの負荷分散
-  - トラフィックの監視→負荷が集中している箇所の検知
-  - 負荷を分散させるためにパスを変更
-  
+Software Defined Networking (SDN) 環境下におけるトラフィック分散手法の実装
+
 <img src="img/architecture.png" width=50%>
 
 ---
