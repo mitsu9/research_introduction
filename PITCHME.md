@@ -12,8 +12,8 @@
 - トラフィックの負荷分散
   - トラフィックの監視→負荷が集中している箇所の検知
   - 負荷を分散させるためにパスを変更
-
-![architecture](img/architecture.png)
+  
+<img src="img/architecture.png" width=50%>
 
 ---
 ### 研究×プログラミング
