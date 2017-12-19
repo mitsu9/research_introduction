@@ -8,7 +8,7 @@
 
 Software Defined Networking (SDN) 環境下におけるトラフィック分散手法の実装
 
-<img src="img/architecture.png" width=50%>
+<img src="img/traffic_balancing.png" width=50%>
 
 ---
 ### 研究×プログラミング
